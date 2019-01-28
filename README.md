@@ -3,4 +3,4 @@ learning
 python
 -------    
 --------------
-| hsxbxh | duhufh |
+| hsxbxh :| duhufh :|
