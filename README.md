@@ -1,10 +1,10 @@
 learning    
 ====    
-python
+人工智能
 -------    
 --------------
-|Tables         | Are           | Cool  |
+|数学       |   视频        | 书籍  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| [matrix cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)      | [machine learning - stanford](https://www.coursera.org/learn/machine-learning) |  |
+|       |      |   |
+|  |       |     |
