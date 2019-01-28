@@ -1,3 +1,2 @@
-# learning
-learning computer
-***Headers***
+learning
+====
